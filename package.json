@@ -1,0 +1,1 @@
+{"description":"Roast Your Own Agent: one original line roasting Kit, my own AI agent.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"u-mfnakmal-roast-your-own-agent-2d221bda","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
